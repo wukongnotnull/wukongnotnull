@@ -4,7 +4,7 @@
   
 [Blog](https://www.wukongnotnull.com)🏠  | [知乎](https://www.zhihu.com/people/wukongnotnull)📚
 
-I am now in **ZTE** 🐧
+I am now in **ZTE**✊
 
 School at **RUC**，Major in **Management**💻
 
