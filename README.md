@@ -2,7 +2,7 @@
   
 <h1>Hi friends, I'm <a href="https://www.wukongnotnull.com/">悟空非空也</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
-[个人简历](https://www.wukongnotnull.tech)🏠  | [知乎](https://www.zhihu.com/people/wukongnotnull)📚
+[数字名片](https://www.wukongnotnull.tech)🏠  | [知乎](https://www.zhihu.com/people/wukongnotnull)📚
 
 I am now in **CodeCityTech**✊
 
